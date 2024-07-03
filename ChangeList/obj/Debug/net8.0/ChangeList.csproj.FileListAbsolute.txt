@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\ChangeList\ChangeList\bin\Debug\net8.0\ChangeList.exe
+C:\Users\ninag\RiderProjects\ChangeList\ChangeList\bin\Debug\net8.0\ChangeList.deps.json
+C:\Users\ninag\RiderProjects\ChangeList\ChangeList\bin\Debug\net8.0\ChangeList.runtimeconfig.json
+C:\Users\ninag\RiderProjects\ChangeList\ChangeList\bin\Debug\net8.0\ChangeList.dll
+C:\Users\ninag\RiderProjects\ChangeList\ChangeList\bin\Debug\net8.0\ChangeList.pdb
+C:\Users\ninag\RiderProjects\ChangeList\ChangeList\obj\Debug\net8.0\ChangeList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\ChangeList\ChangeList\obj\Debug\net8.0\ChangeList.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\ChangeList\ChangeList\obj\Debug\net8.0\ChangeList.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\ChangeList\ChangeList\obj\Debug\net8.0\ChangeList.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\ChangeList\ChangeList\obj\Debug\net8.0\ChangeList.dll
+C:\Users\ninag\RiderProjects\ChangeList\ChangeList\obj\Debug\net8.0\refint\ChangeList.dll
+C:\Users\ninag\RiderProjects\ChangeList\ChangeList\obj\Debug\net8.0\ChangeList.pdb
+C:\Users\ninag\RiderProjects\ChangeList\ChangeList\obj\Debug\net8.0\ChangeList.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\ChangeList\ChangeList\obj\Debug\net8.0\ref\ChangeList.dll
